@@ -1,4 +1,9 @@
-<h2>🏆Achivements</h2>
+**✍️Studying...**
+<br>
+<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+
+**🏆Achivements**
 
 **before**
 <br>✔️ NYPC 2019 참여(특별상) 
@@ -24,7 +29,8 @@
 <br>✔️ SCPC 2차 예선 (585점, 통과)
 <br>✔️ ICPC Seoul Regional 2023 예선 (3솔)
 <br>✔️ KUPC 2023 운영 및 출제
-<h2>📖Stacks</h2>
+
+**📖Stacks**
 <table border="" style="width: 100%;">
   <tbody>
     <tr style="width: 100%;">
