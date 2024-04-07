@@ -2,6 +2,7 @@
 <br>
 <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=flutter&logoColor=white">
 
 **🏆Achivements**
 
