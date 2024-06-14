@@ -1,33 +1,26 @@
 **✍️Studying...**
-<br>
-<img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=flutter&logoColor=white">
+<br> 
 
 **🏆Achivements**
 
 **before**
-<br>✔️ NYPC 2019 참여(특별상) 
+<br>✔️ NYPC 2019 특별상
 <br>✔️ BIT 프로그래밍 동아리 운영
 
 **2022**
 <br>✔️ 현대모비스 알고리즘 대회 예선 
 <br>✔️ UCPC 2022년 여름 대회 예선 (109등)
 <br>✔️ SCPC 1차 예선 통과
-<br>✔️ SCPC 2차 예선(1, 2번 솔브 / 4번 부분 솔브)
 <br>✔️ [서울시립청소년센터] 초등코딩교육봉사 - 건대랑코딩할건대? 중급반 멘토
-<br>✔️ 2023 KAKAO TECH  BLIND RECRUITMENT 1차 코딩 테스트(6솔/7문제)
 <br>✔️ ICPC Seoul Regional 2022 예선 (3솔)
-<br>✔️ 과학기술정보통신부 지원 알고리즘 역량 시범 평가(all solve)
-<br>✔️ KUPC 2022 (3등, 6솔/10문제)
+<br>✔️ KUPC 2022 (3등)
 
 **2023**
 <br>✔️ 삼성 dx 알고리즘 특강 수료 (ID: Decla)
 <br>✔️ 삼성 Pro 검정시험(dx 특강) Pass
 <br>✔️ 현대모비스 알고리즘 대회 예선 (1.5솔)
 <br>✔️ UCPC 2023년 여름 대회 예선 (5솔 71등)
-<br>✔️ SCPC 1차 예선 (4솔, 통과)
-<br>✔️ SCPC 2차 예선 (585점, 통과)
+<br>✔️ SCPC 1, 2차 예선 통과 (본선 진출)
 <br>✔️ ICPC Seoul Regional 2023 예선 (3솔)
 <br>✔️ KUPC 2023 운영 및 출제
 
