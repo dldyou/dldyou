@@ -18,7 +18,7 @@ Konkuk Univ. Computer Science 22, Chankyu Yun
 
 **2022**
 - UCPC 2022 예선 (109위)
-- SCPC 1차 예선 통과
+- SCPC 2차 예선 진출
 - ICPC Seoul Regional 2022 예선 (3솔)
 - KUPC 2022 (3위)
 
