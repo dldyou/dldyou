@@ -10,6 +10,11 @@ Konkuk Univ. Computer Science 22, Chankyu Yun
 - Languages: C, C++, C#, Java, Python, Rust, Typescript
 - Topics: Web Backend Server / Embedded Programming
 
+## ✅ My work
+### Problem setters & Organizers
+- [KUPC 2023](https://github.com/dldyou/KUPC-2023)
+- [KUPC 2024](https://github.com/dldyou/KUPC-2024)
+
 ## Experience
 
 **Before 2022**
