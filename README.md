@@ -20,37 +20,30 @@ Konkuk Univ. Computer Science 22, Chankyu Yun
 - [KUPC 2023](https://github.com/dldyou/KUPC-2023)
 - [KUPC 2024](https://github.com/dldyou/KUPC-2024)
 
-## Experience
+<details>
+<summary>2019-2026</summary>
 
-**Before 2022**
-- NYPC 2019 특별상
-- BIT 프로그래밍 동아리 회장 (2020, 2021)
+- 19' NYPC 2019 특별상
+- 20' 21' BIT 프로그래밍 동아리 회장
+- 22' UCPC 2022 예선 (109위)
+- 22' SCPC 2차 예선 진출
+- 22' ICPC Seoul Regional 2022 예선
+- 22' KUPC 2022 (3위)
+- 23' 삼성 동계 DX 알고리즘 특강 수료 및 Pro 검정시험 통과
+- 23' 건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon 운영진
+- 23' UCPC 2023 예선 (71위)
+- 23' SCPC 본선 진출
+- 23' ICPC Seoul Regional 2023 예선
+- 23' KUPC 2023 운영 및 출제
+- 24' 건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon 회장
+- 24' ICPC Seoul Regional 2024 예선 (102위)
+- 24' KUPC 2024 운영 및 출제
+- 25' Hello, AlKon! 2025 대회 검수
+- 25' KUPC 2025 2위
+- 26' 한화비전 VEDA 임베디드 교육 수강
+- 26' SCPC 2차 예선 진출
 
-**2022**
-- UCPC 2022 예선 (109위)
-- SCPC 2차 예선 진출
-- ICPC Seoul Regional 2022 예선 (3솔)
-- KUPC 2022 (3위)
+</details>
 
-**2023**
-- 삼성 동계 DX 알고리즘 특강 수료 및 Pro 검정시험 통과
-- 건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon 운영진
-- UCPC 2023 예선 (71위)
-- SCPC 본선 진출
-- ICPC Seoul Regional 2023 예선 (3솔)
-- KUPC 2023 운영 및 출제
-
-**2024**
-- 건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon 회장
-- ICPC Seoul Regional 2024 예선 (102위)
-- KUPC 2024 운영 및 출제
-
-**2025**
-- Hello, AlKon! 2025 대회 검수
-- KUPC 2025 2위
-
-**2026**
-- 한화비전 VEDA 임베디드 교육 수강
-- SCPC 2차 예선 진출
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dldyou)](https://solved.ac/dldyou)
