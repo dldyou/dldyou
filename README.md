@@ -2,18 +2,17 @@ Algorithm & Backend
 ---
 Konkuk Univ. Computer Science 22, Chankyu Yun
 ## 🔭 I'm currently working on
-- [logistics-automation](https://github.com/VEDA4-T4/logistics-automation) (Embedded Programming For Logistics Automation With AI CCTV)
 - Al KonTest (AI Code Competition Platform - it will be public after the competition)
-- [MYCHELIN Guide](https://github.com/dldyou/mychelin-guide) (Personal Food Guide Application)
 - [Tree Generator](https://github.com/dldyou/tree-generator) (Visual Studio Code Extension - ASCII Project Tree Generator)
 - [rust-study](https://github.com/dldyou/rust-study) (Rust Study)
 - [My Blog](https://github.com/dldyou/myblog) (Make my personal blog)
+- [GracefulFS](https://github.com/GracefulFS/gracefulfs) (Windows filesystem analysis tool)
 - [Rovenfall](https://github.com/dldyou/Rovenfall) (Minecraft Mod)
 - [danmaku](https://github.com/utilForever/danmaku) (Bullet Hell(Danmaku) Patern Library)
 
 ## 🌱 I'm currently learning
 - Languages: C, C++, C#, Java, Python, Rust, Typescript
-- Topics: Web Backend Server / Embedded Programming
+- Topics: Backend, System Programming
 
 ## ✅ My work
 ### Problem setters & Organizers
