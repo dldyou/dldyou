@@ -5,10 +5,8 @@ Konkuk Univ. Computer Science 22, Chankyu Yun
 - Al KonTest (AI Code Competition Platform - it will be public after the competition)
 - [Tree Generator](https://github.com/dldyou/tree-generator) (Visual Studio Code Extension - ASCII Project Tree Generator)
 - [rust-study](https://github.com/dldyou/rust-study) (Rust Study)
-- [My Blog](https://github.com/dldyou/myblog) (Make my personal blog)
 - [GracefulFS](https://github.com/GracefulFS/gracefulfs) (Windows filesystem analysis tool)
-- [Rovenfall](https://github.com/dldyou/Rovenfall) (Minecraft Mod)
-- [danmaku](https://github.com/utilForever/danmaku) (Bullet Hell(Danmaku) Patern Library)
+- [danmaku](https://github.com/utilForever/danmaku) (Danmaku Pattern Library)
 
 ## 🌱 I'm currently learning
 - Languages: C, C++, C#, Java, Python, Rust, Typescript
@@ -38,9 +36,11 @@ Konkuk Univ. Computer Science 22, Chankyu Yun
 - 24' ICPC Seoul Regional 2024 예선 (102위)
 - 24' KUPC 2024 운영 및 출제
 - 25' Hello, AlKon! 2025 대회 검수
-- 25' KUPC 2025 2위
+- 25' KUPC 2025 (2위)
 - 26' 한화비전 VEDA 임베디드 교육 수강
 - 26' SCPC 2차 예선 진출
+- 26' UCPC 2026 예선 (92위)
+
 
 </details>
 
